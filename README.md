@@ -3,3 +3,4 @@ This is a 2 player Tic - Tac - Toe game ,  in which two players alternately put 
 # sample output
 ![tic](https://user-images.githubusercontent.com/87163784/125417237-d89b716e-38d4-472a-9831-b2fd9cc0b099.png)
 # sample result
+![tic res](https://user-images.githubusercontent.com/87163784/125417546-bfb880ff-1aa7-4a12-a708-72c650499308.png)
